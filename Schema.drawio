@@ -1,0 +1,229 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="kTt5ZPTo2hkQXcTT9_Bs">
+    <mxGraphModel dx="1206" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L_Club" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Club" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Student" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Student" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="L_General_Student" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="General_Student" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Club_Executive" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Club_Executive" vertex="1">
+          <mxGeometry height="20" width="150" x="560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Contact_Emails" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Contact_Emails" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Phone_Numbers" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Phone_Numbers" vertex="1">
+          <mxGeometry height="20" width="150" x="450" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Membership" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Membership" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Equipment" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Equipment" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Maintenance_Log" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Maintenance_Log" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Event" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Event" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Collaboration" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Collaboration" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Resource_Booking" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Resource_Booking" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Volunteers_In" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Volunteers_In" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Badge" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Badge" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Earns" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" value="Earns" vertex="1">
+          <mxGeometry height="20" width="150" x="160" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Club" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Club_ID&lt;/u&gt; | Name | Department | Office_Room" vertex="1">
+          <mxGeometry height="30" width="460" x="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Student" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Student_ID&lt;/u&gt; | Name | Email | Street | City | Zip" vertex="1">
+          <mxGeometry height="30" width="580" x="160" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T_General_Student" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Student_ID&lt;/u&gt; | Year_of_Study | Major" vertex="1">
+          <mxGeometry height="30" width="370" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Club_Executive" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Student_ID&lt;/u&gt; | Position | Term_Start | Term_End" vertex="1">
+          <mxGeometry height="30" width="450" x="560" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Contact_Emails" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Club_ID&lt;/u&gt; | &lt;u&gt;Email&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="160" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Phone_Numbers" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Student_ID&lt;/u&gt; | &lt;u&gt;Phone_Number&lt;/u&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="450" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Membership" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Student_ID&lt;/u&gt; | &lt;u&gt;Club_ID&lt;/u&gt; | Role | Join_Date" vertex="1">
+          <mxGeometry height="30" width="460" x="160" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Equipment" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Equip_ID&lt;/u&gt; | Name | Type | Status | Purchase_Date | Club_ID" vertex="1">
+          <mxGeometry height="30" width="560" x="160" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Maintenance_Log" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Equip_ID&lt;/u&gt; | &lt;u&gt;Log_ID&lt;/u&gt; | Date | Cost | Description" vertex="1">
+          <mxGeometry height="30" width="460" x="160" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Event" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Event_ID&lt;/u&gt; | Title | Date | Venue | Description | Club_ID" vertex="1">
+          <mxGeometry height="30" width="560" x="160" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Collaboration" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Club_ID&lt;/u&gt; | &lt;u&gt;Event_ID&lt;/u&gt; | Contribution_Type" vertex="1">
+          <mxGeometry height="30" width="400" x="160" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Resource_Booking" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Equip_ID&lt;/u&gt; | &lt;u&gt;Event_ID&lt;/u&gt; | Borrow_Time | Return_Time | Status" vertex="1">
+          <mxGeometry height="30" width="600" x="160" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Volunteers_In" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Student_ID&lt;/u&gt; | &lt;u&gt;Event_ID&lt;/u&gt; | Hours_Worked | Role | Verification | Verifier" vertex="1">
+          <mxGeometry height="30" width="700" x="160" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Badge" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Badge_ID&lt;/u&gt; | Name | Tier | Description | Hrs_Required" vertex="1">
+          <mxGeometry height="30" width="520" x="160" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="T_Earns" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;align=left;spacingLeft=10;" value="&lt;u&gt;Student_ID&lt;/u&gt; | &lt;u&gt;Badge_ID&lt;/u&gt; | Earned_Date | Total_Hours" vertex="1">
+          <mxGeometry height="30" width="520" x="160" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Gen_Stud" edge="1" parent="1" source="T_General_Student" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=1;entryDx=0;entryDy=0;exitX=0.1;exitY=0;exitDx=0;exitDy=0;" target="T_Student">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Club_Exec" edge="1" parent="1" source="T_Club_Executive" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.1;exitY=0;exitDx=0;exitDy=0;" target="T_Student">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Contact_Email" edge="1" parent="1" source="T_Contact_Emails" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T_Club">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="315" />
+              <mxPoint x="150" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Phone" edge="1" parent="1" source="T_Phone_Numbers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.2;entryY=1;entryDx=0;entryDy=0;" target="T_Student">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="315" />
+              <mxPoint x="430" y="190" />
+              <mxPoint x="276" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Mem_Stud" edge="1" parent="1" source="T_Membership" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T_Student">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="388" />
+              <mxPoint x="100" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Mem_Club" edge="1" parent="1" source="T_Membership" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="T_Club">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="402" />
+              <mxPoint x="70" y="82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Equip_Club" edge="1" parent="1" source="T_Equipment" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.85;entryDx=0;entryDy=0;" target="T_Club">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="475" />
+              <mxPoint x="120" y="86" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Maint_Equip" edge="1" parent="1" source="T_Maintenance_Log" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T_Equipment">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="555" />
+              <mxPoint x="120" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Event_Club" edge="1" parent="1" source="T_Event" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.95;entryDx=0;entryDy=0;" target="T_Club">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="635" />
+              <mxPoint x="50" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Collab_Club" edge="1" parent="1" source="T_Collaboration" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.05;entryY=1;entryDx=0;entryDy=0;" target="T_Club">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="708" />
+              <mxPoint x="60" y="100" />
+              <mxPoint x="183" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Collab_Event" edge="1" parent="1" source="T_Collaboration" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="T_Event">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="723" />
+              <mxPoint x="140" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_RB_Equip" edge="1" parent="1" source="T_Resource_Booking" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="T_Equipment">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="787" />
+              <mxPoint x="130" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_RB_Event" edge="1" parent="1" source="T_Resource_Booking" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.9;entryDx=0;entryDy=0;" target="T_Event">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="802" />
+              <mxPoint x="150" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Vol_Stud" edge="1" parent="1" source="T_Volunteers_In" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="T_Student">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="868" />
+              <mxPoint x="90" y="163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Vol_Event" edge="1" parent="1" source="T_Volunteers_In" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.15;entryY=1;entryDx=0;entryDy=0;" target="T_Event">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="883" />
+              <mxPoint x="140" y="820" />
+              <mxPoint x="244" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Earns_Stud" edge="1" parent="1" source="T_Earns" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.9;entryDx=0;entryDy=0;" target="T_Student">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="1027" />
+              <mxPoint x="110" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Earns_Badge" edge="1" parent="1" source="T_Earns" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T_Badge">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1042" />
+              <mxPoint x="140" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
